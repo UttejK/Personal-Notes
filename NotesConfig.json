@@ -1,10 +1,12 @@
 {
   "folders": {
     "DSA": {
-      "label": "Data Structures and Algorithms notes"
+      "label": "Data Structures and Algorithms notes",
+      "url": "/DSA"
     },
     "React": {
-      "label": "React JS notes"
+      "label": "React JS notes",
+      "url": "/React"
     }
   }
 }
