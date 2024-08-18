@@ -4,8 +4,8 @@
       "label": "Data Structures and Algorithms notes",
       "url": "/DSA",
       "notes": [
-        { "label": "Big O", "url": "/Big%20O.md" },
-        { "label": "Arrays", "url": "/Arrays.md" }
+        { "label": "Big O.md", "url": "/Big%20O.md" },
+        { "label": "Arrays.md", "url": "/Arrays.md" }
       ]
     },
     "React": {
@@ -13,11 +13,11 @@
       "url": "/React",
       "notes": [
         {
-          "label": "A First Look at React",
+          "label": "A First Look at React.md",
           "url": "/A%20First%20Look%20at%20React.md"
         },
         {
-          "label": "Working with Components, Props and JSX",
+          "label": "Working with Components, Props and JSX.md",
           "url": "/Working%20with%20Components%2C%20Props%20and%20JSX.md"
         }
       ]
