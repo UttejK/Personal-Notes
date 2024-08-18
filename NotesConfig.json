@@ -2,11 +2,23 @@
   "folders": {
     "DSA": {
       "label": "Data Structures and Algorithms notes",
-      "url": "/DSA"
+      "url": "/DSA",
+      "notes": [
+        { "label": "Big O", "url": "big_O" },
+        { "label": "Arrays", "url": "arrays" },
+        { "label": "Big O", "url": "big_O" }
+      ]
     },
     "React": {
       "label": "React JS notes",
-      "url": "/React"
+      "url": "/React",
+      "notes": [
+        {
+          "label": "Working with Components, Props and JSX",
+          "url": "Working_with_Components_Props_and_JSX"
+        },
+        { "label": "A First Look at React", "url": "A_First_Look_at_React" }
+      ]
     }
   }
 }
